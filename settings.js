@@ -54,5 +54,5 @@ const SETTINGS = {
   audioUrl: "https://files.catbox.moe/kluhjm.mp3",
 
   // Footer
-  footerText: "© 2025 Claire | All right reserved.",
+  footerText: "© 2026 Xena | All right reserved.",
 };
