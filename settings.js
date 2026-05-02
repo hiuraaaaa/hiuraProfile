@@ -1,7 +1,7 @@
 const SETTINGS = {
   // Profile
   name: "It's Me Xena",
-  jobtitle: "cl io team",
+  jobtitle: "Xena Aradhana Putra",
   username: "@xena",
 
   // Avatar & Cover
