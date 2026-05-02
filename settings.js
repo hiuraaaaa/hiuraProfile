@@ -10,9 +10,8 @@ const SETTINGS = {
   backgroundUrl: "https://telegra.ph/file/265949a2a89fc2adf5066.jpg",
 
   // About Section
-  quote: "Jika kamu gagal menjadi orang sukses, setidaknya kamu sukses menjadi orang gagal.",
-  bio: "Seorang anak yang gagal, mengerti bahwa kegagalan bukan akhir, tapi awal dari sesuatu yang baru.",
-
+  quote: "If you fail to be successful, at least succeed in being a failure.",
+  bio: "I'm a 14-year-old vocational high school student learning editing and coding. Still a beginner, still figuring things out.",
   // Social Links
   socials: [
     { icon: "fab fa-whatsapp", url: "https://wa.me/6283821920285" },
