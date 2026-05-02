@@ -1,8 +1,8 @@
 const SETTINGS = {
   // Profile
-  name: "It's Me Claire",
-  jobtitle: "hmmm",
-  username: "@Claire",
+  name: "It's Me Xena",
+  jobtitle: "cl io team",
+  username: "@xena",
 
   // Avatar & Cover
   avatarUrl: "https://files.catbox.moe/v21aeo.jpg",
